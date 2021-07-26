@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ParkSungho&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sungho%20Park&fontSize=90&animation=fadeIn)
 
 <br>
 <h3 align="center"> 🔨 Stack 🔧 </h3>
