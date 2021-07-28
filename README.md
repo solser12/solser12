@@ -29,7 +29,7 @@
 
 <h3 align="center"> 👉  Me  👈 </h3>
 <p align="center">
-  <a href="https://caring-moose-41f.notion.site/137409b95cc34c8f8d84afb63eabd037"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://caring-moose-41f.notion.site/137409b95cc34c8f8d84afb63eabd037"/></a>
+  <a href="https://caring-moose-41f.notion.site/137409b95cc34c8f8d84afb63eabd037"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white&link=https://caring-moose-41f.notion.site/137409b95cc34c8f8d84afb63eabd037"/></a>
   <a href="https://velog.io/@solser12"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@solser12"/></a>
   <a href="mailto:solser1526@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=solser1526@gmail.com"/></a>
 </p>
